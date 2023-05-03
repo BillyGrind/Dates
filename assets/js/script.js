@@ -9,3 +9,4 @@ import { createFuturoscopeDate } from "./exercice4.js";
 // findExactDate();
 // giveTheFutur();
 createFuturoscopeDate();
+
