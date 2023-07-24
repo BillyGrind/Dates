@@ -5,4 +5,4 @@ Using HTML, CSS (and javascript, of course) reproduce the following picture.![Ap
 
 ## Screenshots
 
-![App Screenshot]("./assets/img/screenshot.png")
+![App Screenshot]("assets/img/screenshot.png")
